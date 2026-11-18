@@ -1,4 +1,4 @@
-### Hi, I'm Hugh 👋
+### Hi, I'm Hugh
 
 MS Data Science student at **Stevens Institute of Technology** (May 2028), with a BS in Chemical Engineering from Northeastern. I build data projects that test real-world numbers: betting odds, river gauges, energy reports and umpire calls.
 
