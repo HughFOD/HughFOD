@@ -7,7 +7,7 @@ I build data-driven projects that explore real-world problems, from betting mark
 
 | Project | What it does | Code |
 |---|---|---|
-| [Today's Soccer Bets](https://todayssoccerbets.com) | Compares soccer odds across 5 US sportsbooks, Kalshi and Polymarket every morning, flags bets priced better than their real chance, and tracks every pick | [soccer-markets](https://github.com/HughFOD/soccer-markets) |
+| [Today's Soccer Bets](https://todayssoccerbets.com) | Compares soccer odds across 5 US sportsbooks and 2 prediction markets (Kalshi and Polymarket) every morning, flags bets priced better than their real chance, and tracks every pick. | [soccer-markets](https://github.com/HughFOD/soccer-markets) |
 | FairCall | Audits MLB umpires with machine learning: models the chance each pitch is called a strike, then measures bias at zone edges and in two-strike counts (team project, in progress) | [FairCall](https://github.com/munipa/Faircall2) |
 | [Natural Gas Storage Nowcast](https://hughfod.github.io/gas-storage-nowcast/) | Predicts the EIA's weekly natural gas storage report from weather, walk-forward tested since 2018 | [gas-storage-nowcast](https://github.com/HughFOD/gas-storage-nowcast) |
 | [Hudson River Gauge Check](https://hughfod.github.io/hudson-flow/) | Validates and forecasts USGS river gauges with mass balances and machine learning | [hudson-flow](https://github.com/HughFOD/hudson-flow) |
